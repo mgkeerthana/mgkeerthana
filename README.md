@@ -77,12 +77,6 @@ Full deep learning pipeline for image classification inside a government researc
 
 ---
 
-## Contribution activity
-
-![snake](https://raw.githubusercontent.com/mgkeerthana/mgkeerthana/output/github-snake-dark.svg)
-
----
-
 ## Reach me
 
 📧 mgkirthana@gmail.com  
