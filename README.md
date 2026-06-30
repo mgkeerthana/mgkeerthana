@@ -18,7 +18,7 @@
 
 B.Tech in AI & Data Science from ICFAI, Hyderabad. I build things that actually run — from real-time emotion detection models to backend APIs in production. Two internships in, currently going deep on GenAI.
 
-📍 Hyderabad, India &nbsp;|&nbsp; 🎓 Graduating May 2026 &nbsp;|&nbsp; 💼 Open to AI / Backend roles &nbsp;|&nbsp; CGPA 7.99
+📍 Hyderabad, India &nbsp;|&nbsp; 🎓 Graduating May 2026 &nbsp;|&nbsp; 💼 Open to AI / Backend roles &nbsp;|&nbsp; CGPA 8.15
 
 ---
 
