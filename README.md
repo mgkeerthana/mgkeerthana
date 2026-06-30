@@ -77,16 +77,6 @@ Full deep learning pipeline for image classification inside a government researc
 
 ---
 
-## What I'm building right now
-
-| Project | Stack | Status |
-|---|---|---|
-| RAG chatbot over custom docs | LangChain · FAISS · OpenAI | 🔨 In progress |
-| AI agent with LangGraph | LangGraph · Python | 📐 Planning |
-| Resume Q&A bot | OpenAI API · Streamlit | 🧪 Testing |
-
----
-
 ## Contribution activity
 
 ![snake](https://raw.githubusercontent.com/mgkeerthana/mgkeerthana/output/github-snake-dark.svg)
